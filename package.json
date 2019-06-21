@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage":"https://scoopapa/github.io/Space-X-Launch-Page
   "version": "0.1.0",
   "private": true,
   "dependencies": {
